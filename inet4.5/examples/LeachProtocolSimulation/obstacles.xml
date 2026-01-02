@@ -1,0 +1,10 @@
+<physicalEnvironment>
+  <objects>
+    <object type="cuboid" material="concrete"
+            x="300m" y="400m" z="0m"
+            sizeX="60m" sizeY="15m" sizeZ="10m"/>
+    <object type="cuboid" material="glass"
+            x="200m" y="250m" z="0m"
+            sizeX="30m" sizeY="30m" sizeZ="8m"/>
+  </objects>
+</physicalEnvironment>

@@ -1,0 +1,10 @@
+<turtle>
+  <set x="150m" y="150m" speed="2mps" heading="0deg"/>
+  <forward t="20s"/>
+  <turn angle="90deg"/>
+  <forward t="15s"/>
+  <turn angle="-90deg"/>
+  <forward t="25s"/>
+  <turn angle="180deg"/>
+  <forward t="10s"/>
+</turtle>
